@@ -1,8 +1,8 @@
 <div align="center">
   
-### Now Playing — Spotify 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" />
+### Now Playing — Spotify 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=21aipylnbjerrt4k5cvl5n3cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="100" height="100" /> ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=21aipylnbjerrt4k5cvl5n3cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="100" height="100" />
 </div>
 
 <details>
